@@ -1,1 +1,2 @@
-# PhpJourney As a Noob
+# PhpJourney As a Noob.
+# Here I shere my Notes For Study. 
